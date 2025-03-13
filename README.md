@@ -1,6 +1,5 @@
 # Project-Security-Log-Analysis-and-Dashboarding-in-Splunk
 
-# Security Log Analysis and Dashboarding in Splunk
 
 ## Overview
 This project focuses on setting up Splunk, ingesting security logs, performing log analysis, and creating a dashboard to visualize security events. The main goal was to monitor and analyze security logs, specifically capturing instances of log clearing on my device.
