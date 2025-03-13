@@ -39,3 +39,12 @@ This project focuses on setting up Splunk, ingesting security logs, performing l
 - Gained hands-on experience with Splunk’s log ingestion and search capabilities.
 - Developed an interactive dashboard for security log monitoring.
 - Enhanced ability to analyze security-related events using Splunk.
+- 
+![basic splunk search](https://github.com/user-attachments/assets/7562d292-1bea-4075-ac49-8b7a552bc7f1)
+![sample logs](https://github.com/user-attachments/assets/53b154b7-d9ac-4fd3-ada8-e3baaebc4833)
+![log clear sample](https://github.com/user-attachments/assets/5202711e-5d37-465b-985f-2d1a76696737)
+![setting up table](https://github.com/user-attachments/assets/a99d1c8f-7e2a-48cc-98b8-2cd44a95a341)
+![log table](https://github.com/user-attachments/assets/e83fff9e-d8b3-440c-808d-059053b5a257)
+
+
+
